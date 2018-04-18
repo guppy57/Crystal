@@ -1,6 +1,4 @@
-## TO BE WRITTEN IN C++
-## Basic block chain implementation
-## Creator: Armaan "Guppy" Gupta
+# Creator: Armaan "Guppy" Gupta
 
 """
 RESOURCES
